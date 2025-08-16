@@ -3,7 +3,7 @@
 Đại học Kinh Tế TP.HCM, Việt Nam  
 [2025-08] KTLT CLASS  
 Giảng viên: Đỗ Như Tài  
-Học sinh: Dương Nguyễn Kim   
+Học sinh: Dương Nguyễn Kim Ngân  
 Nội dung: Làm quen với AI
 
 ## App-Inventor
